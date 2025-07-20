@@ -3,7 +3,7 @@
 
 ---
 
-🚀 Passionate about building scalable, secure, and automated infrastructure in the cloud.
+🚀 Passionate about building scalable, secure, and automated infrastructure in the Cloud.
 
 🔧 **Tech Stack**  
 - ☁️ **Cloud Platforms**: GCP | Azure | AWS  
