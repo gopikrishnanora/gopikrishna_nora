@@ -7,12 +7,12 @@
 
 🔧 **Tech Stack**  
 - ☁️ **Cloud Platforms**: GCP | Azure | AWS  
-- 🧱 **Infra-as-Code**: Terraform | ARM | CloudFormation  
-- 🔄 **CI/CD**: GitHub Actions | Azure DevOps | Jenkins | GitLab CI  
+- 🧱 **Infra-as-Code**: Terraform  
+- 🔄 **CI/CD**: GitHub Actions | Azure DevOps | Jenkins
 - 📦 **Containers & Orchestration**: Docker | Kubernetes | GKE | AKS  
 - 📡 **Monitoring/Logging**: Prometheus | Grafana | ELK | Azure Monitor  
-- 🔐 **Security & Networking**: VPC, IAM, SSL/TLS, Firewall, RBAC, Secrets Mgmt  
-- 🧪 **Testing & Automation**: Bash | Python | Ansible | Packer  
+- 🔐 **Security & Networking**: VPC, IAM, SSL/TLS, Firewall, RBAC, Secrets Mgmt
+- 🧪 **Testing & Automation**: Bash | PowerShell | Ansible  
 
 ---
 
