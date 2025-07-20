@@ -63,7 +63,7 @@
 
 ### 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 🔗 [LinkedIn](https://linkedin.com/in/gopikrishna-nora)
 - 🌐 [Portfolio Website](https://yourportfolio.com) (optional)
 - ✉️ Email: nora.gopikrishna@gmail.com
 
