@@ -12,7 +12,7 @@
 - 📦 **Containers & Orchestration**: Docker | Kubernetes | GKE | AKS  
 - 📡 **Monitoring/Logging**: Prometheus | Grafana | ELK | Cloud Monitor
 - 🔐 **Security & Networking**: VPC, IAM, SSL/TLS, Firewall, RBAC, Secrets Mgmt
-- 🧪 **Testing & Automation**: Bash | PowerShell | Ansible  
+- 🧪 **Automation**: Bash | PowerShell | Ansible  
 
 ---
 
