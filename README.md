@@ -8,9 +8,9 @@
 🔧 **Tech Stack**  
 - ☁️ **Cloud Platforms**: GCP | Azure | AWS  
 - 🧱 **Infra-as-Code**: Terraform  
-- 🔄 **CI/CD**: GitHub Actions | Azure DevOps | Jenkins
+- 🔄 **CI/CD**: GitHub Actions | Azure DevOps | ArgoCD | Jenkins
 - 📦 **Containers & Orchestration**: Docker | Kubernetes | GKE | AKS  
-- 📡 **Monitoring/Logging**: Prometheus | Grafana | ELK | Azure Monitor  
+- 📡 **Monitoring/Logging**: Prometheus | Grafana | ELK | Cloud Monitor
 - 🔐 **Security & Networking**: VPC, IAM, SSL/TLS, Firewall, RBAC, Secrets Mgmt
 - 🧪 **Testing & Automation**: Bash | PowerShell | Ansible  
 
